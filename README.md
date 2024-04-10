@@ -14,7 +14,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ```sh
 
-//ALWAYS BECAUSE THEY MACANO NODE MODULES
+//ALWAYS BECAUSE NODE MODULES ARE MISSING
 
 npm install
 ```
