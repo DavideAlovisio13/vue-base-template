@@ -13,6 +13,9 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ## Project Setup
 
 ```sh
+
+//ALWAYS BECAUSE THEY MACANO NODE MODULES
+
 npm install
 ```
 
